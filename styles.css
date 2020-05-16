@@ -61,18 +61,18 @@ header .social-nav {
 }
 
 .social-nav .sn-twitter {
-  background: url('./images/twitter.svg') no-repeat 50% 50%;
-  background-color: #1DA1F2;
+  background: url('./images/cotton1.jpg') no-repeat 50% 50%;
+  background-color: rgb(232, 238, 241);
 }
 
 .social-nav .sn-instagram {
-  background: url('./images/instagram.svg') no-repeat 50% 50%;
-  background-color: #E1306C;
+  background: url('./images/eye1.jpg') no-repeat 50% 50%;
+  background-color: rgb(80, 48, 225);
 }
 
 .social-nav .sn-website{
-  background: url('./images/globe.svg') no-repeat 50% 50%;
-  background-color: #77A8B1;
+  background: url('./images/joe1.jpg') no-repeat 50% 50%;
+  background-color: rgb(236, 58, 3);
 }
 
 section.about {
